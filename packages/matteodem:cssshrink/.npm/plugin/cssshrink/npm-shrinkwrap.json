@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "cssshrink": {
+      "version": "0.0.5",
+      "dependencies": {
+        "prettyugly": {
+          "version": "0.0.5"
+        },
+        "gonzales-ast": {
+          "version": "0.0.5",
+          "dependencies": {
+            "gonzales": {
+              "version": "1.0.7"
+            }
+          }
+        },
+        "csscolormin": {
+          "version": "0.0.4",
+          "dependencies": {
+            "color": {
+              "version": "0.7.3",
+              "dependencies": {
+                "color-convert": {
+                  "version": "0.5.2"
+                }
+              }
+            },
+            "color-string": {
+              "version": "0.2.1",
+              "dependencies": {
+                "color-convert": {
+                  "version": "0.5.2"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
